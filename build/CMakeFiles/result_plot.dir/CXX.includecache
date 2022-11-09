@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/matplotlib.h
+Python.h
+-
+vector
+-
+map
+-
+array
+-
+numeric
+-
+algorithm
+-
+stdexcept
+-
+iostream
+-
+cstdint
+-
+functional
+-
+string
+-
+numpy/arrayobject.h
+-
+opencv2/opencv.hpp
+-
+
+/home/blade/learning/cpp-matplotlib/src/main.cpp
+matplotlib.h
+/home/blade/learning/cpp-matplotlib/src/matplotlib.h
+
