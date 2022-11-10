@@ -1,3 +1,0 @@
-/home/blade/projects/cpp-matplotlib/build/CMakeFiles/rebuild_cache.dir
-/home/blade/projects/cpp-matplotlib/build/CMakeFiles/edit_cache.dir
-/home/blade/projects/cpp-matplotlib/build/CMakeFiles/result_plot.dir
