@@ -1,6 +1,6 @@
 #include "matplotlib.h"
 
-namespace plt = matplotlib.cpp;
+namespace plt = matplotlibcpp;
 
 int main() {
     plt::plot({1,2,3,4});

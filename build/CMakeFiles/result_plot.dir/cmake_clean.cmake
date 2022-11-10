@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/result_plot.dir/src/main.cpp.o"
-  "result_plot.pdb"
   "result_plot"
+  "result_plot.pdb"
 )
 
 # Per-language clean rules from dependency scanning.
