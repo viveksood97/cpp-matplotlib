@@ -17,9 +17,9 @@ sudo apt install python3-matplotlib
 
 ## Credits
 
-[Guide]: https://www.youtube.com/watch?v=OlbtdOAWNf8
+Guide: https://www.youtube.com/watch?v=OlbtdOAWNf8
 
-[matplotlib-cpp]: https://github.com/lava/matplotlib-cpp
+matplotlib-cpp: https://github.com/lava/matplotlib-cpp
 
 ## License
 
